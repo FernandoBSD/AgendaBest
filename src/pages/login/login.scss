@@ -1,0 +1,34 @@
+page-login {
+
+  #labelEmail{
+
+    border-radius: 10px 10px 0px 0px;
+  }
+  #rounded {
+    width: 100%;
+    height: 100px;
+    -moz-border-radius: 50px;
+    -webkit-border-radius: 50px;
+    border-radius: 10px;
+    margin-bottom: 5px;
+}
+
+
+.logPanel{
+
+  background: rgb(39, 95, 98);
+}
+.logButtons{
+
+  margin-left:  auto;
+  margin-right: auto;
+  margin-top: 10px;
+  display: block;
+
+}
+.socialmediaBttns{
+
+  margin-left: 33%;
+}
+
+}
